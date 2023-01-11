@@ -1,0 +1,1 @@
+This is a json object I created for practice/to complete a homework assignment for SEI at GA
